@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      瓜分活动
+title:      admin
 category: blog
 description: 点击进入
 ---
 
-[链接](dist/scan.html)
+[链接](dist/index.html)
